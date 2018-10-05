@@ -1,0 +1,45 @@
+body  {
+  background-color: black;
+}
+
+.discover {
+  text-align: center;
+  }
+
+p.link   {
+  color: Aquamarine; font-size: 16px;
+}
+
+p.specific {
+  font-family: Verdana; font-size: 21px; color: gray;
+}
+
+h1  {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+}
+
+.personal {
+  text-align: center;
+}
+
+h2  {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.mobile {
+  text-align: center;
+}
+
+.excursion {
+  text-align: right;
+  }
+
+p.excursion {
+  color: gray;
+}
